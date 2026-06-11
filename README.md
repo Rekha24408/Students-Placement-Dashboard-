@@ -2,28 +2,25 @@
 Interactive sales performance dashboard built using Power BI
 # Sales Performance Dashboard (Power BI)
 
-## 📊 Project Overview
+ 📊 Project Overview
 This Power BI dashboard analyzes sales performance, profit trends, and regional distribution to support data-driven decisions.
 
-## 🛠 Tools Used
+ 🛠 Tools Used
 - Power BI Desktop
 - Excel (Data Cleaning)
 - DAX Measures
 
-## 📌 Key Insights
+📌 Key Insights
 - Identified top-performing regions and products
 - Analyzed monthly sales trends and profit margins
 - Created KPI cards for quick performance tracking
 
-## 📷 Dashboard Preview
-(Add images from /Images folder)
-
-## 🚀 Features
+🚀 Features
 - Interactive slicers and filters
 - Dynamic KPI cards
 - Region-wise and category-wise analysis
 
-## 📁 Files Included
+ 📁 Files Included
 - `.pbix` Power BI file
 - Dashboard screenshots
 - README documentation
